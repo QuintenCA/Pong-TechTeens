@@ -1,4 +1,6 @@
 # main.py
+import os
+os.system("pip install pygame")
 
 import pygame
 
